@@ -32,8 +32,14 @@ To view the project locally, you can either open the project files in your code 
 
 Inside `index.html`:
 - [ ] Update the HTML tags so that they are correct and semantic
-
-
+- [ ] first modified the header tag
+- [ ] removed div main with just main tag
+- [ ] removed div article made it article
+- [ ] removed div image container with figure tag
+- [ ] removed div paragraph with just p tag.
+- [ ] removed b tag with strong tag
+- [ ] finally removed div footer and made it a footer tag
+ 
 ### Tips
 - Remember to update the closing tags when changing an element.
 - Push a commit for each task completed. Include a meaningfull commit message.
